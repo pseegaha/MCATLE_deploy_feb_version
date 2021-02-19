@@ -1,0 +1,699 @@
+BU_Info,Journey,Channel,Affiliate,Affiliate_base,Customer_type
+ATP,30,Cart,1067 hp,1067 hp,ATP_trial
+ATP,29,Landing Page,1357 hp,1357 hp,ATP_trial
+ATP,28,NGM,714 lenovo,714 lenovo,ATP_trial
+ATP,27,Email,105 dell,105 dell,ATP_trial
+ATP,26,Product,885 asus,885 asus,ATP_trial
+ATP,25,Cart,662 acer,662 acer,ATP_trial
+ATP,24,Landing Page,1348 samsung,1348 samsung,ATP_trial
+ATP,23,NGM,hp_all,1067 hp,ATP_trial
+ATP,22,Email,hp_all,1357 hp,ATP_trial
+ATP,21,Product,non_hp,714 lenovo,ATP_trial
+ATP,20,Cart,non_hp,105 dell,ATP_trial
+ATP,19,Landing Page,non_hp,885 asus,ATP_trial
+ATP,18,NGM,non_hp,662 acer,ATP_trial
+ATP,17,Email,non_hp,1348 samsung,ATP_trial
+ATP,16,Cart,1647 hp,1647 hp,ATP_trial
+ATP,15,Landing Page,1937 hp,1937 hp,ATP_trial
+ATP,14,NGM,714 lenovo,714 lenovo,ATP_trial
+ATP,13,Email,105 dell,105 dell,ATP_trial
+ATP,12,Product,885 asus,885 asus,ATP_trial
+ATP,11,Cart,662 acer,662 acer,ATP_trial
+ATP,10,Landing Page,1348 samsung,1348 samsung,ATP_trial
+ATP,9,NGM,hp_all,1647 hp,ATP_trial
+ATP,8,Email,hp_all,1937 hp,ATP_trial
+ATP,7,Product,non_hp,715 lenovo,ATP_trial
+ATP,6,Cart,non_hp,106 dell,ATP_trial
+ATP,5,Landing Page,non_hp,886 asus,ATP_trial
+ATP,4,NGM,non_hp,663 acer,ATP_trial
+ATP,3,Email,non_hp,1349 samsung,ATP_trial
+ATP,2,Cart,2227 hp,2227 hp,ATP_trial
+ATP,1,Landing Page,2517 hp,2517 hp,ATP_trial
+ATP,0,NGM,714 lenovo,714 lenovo,ATP_trial
+ATP,-1,Email,105 dell,105 dell,ATP_trial
+ATP,-2,Product,885 asus,885 asus,ATP_trial
+ATP,-3,Cart,662 acer,662 acer,ATP_trial
+ATP,-4,Landing Page,1348 samsung,1348 samsung,ATP_trial
+ATP,-5,NGM,hp_all,2227 hp,ATP_trial
+ATP,-6,Email,hp_all,2517 hp,ATP_trial
+ATP,-7,Product,non_hp,716 lenovo,ATP_trial
+ATP,-8,Cart,non_hp,107 dell,ATP_trial
+ATP,-9,Landing Page,non_hp,887 asus,ATP_trial
+ATP,-10,NGM,non_hp,664 acer,ATP_trial
+ATP,-11,Email,non_hp,1350 samsung,ATP_trial
+ATP,-12,Cart,2807 hp,2807 hp,ATP_trial
+ATP,-13,Landing Page,3097 hp,3097 hp,ATP_trial
+ATP,-14,NGM,714 lenovo,714 lenovo,ATP_trial
+ATP,-15,Email,105 dell,105 dell,ATP_trial
+ATP,-16,Product,885 asus,885 asus,ATP_trial
+ATP,-17,Cart,662 acer,662 acer,ATP_trial
+ATP,-18,Landing Page,1348 samsung,1348 samsung,ATP_trial
+ATP,-19,NGM,hp_all,2807 hp,ATP_trial
+ATP,-20,Email,hp_all,3097 hp,ATP_trial
+ATP,-21,Product,non_hp,717 lenovo,ATP_trial
+ATP,-22,Cart,non_hp,108 dell,ATP_trial
+ATP,-23,Landing Page,non_hp,888 asus,ATP_trial
+ATP,-24,NGM,non_hp,665 acer,ATP_trial
+ATP,-25,Email,non_hp,1351 samsung,ATP_trial
+ATP,-26,Cart,3387 hp,3387 hp,ATP_trial
+ATP,-27,Landing Page,3677 hp,3677 hp,ATP_trial
+ATP,-28,NGM,714 lenovo,714 lenovo,ATP_trial
+ATP,-29,Email,105 dell,105 dell,ATP_trial
+ATP,-30,Product,885 asus,885 asus,ATP_trial
+ATP,-31,Cart,662 acer,662 acer,ATP_trial
+ATP,-32,Landing Page,1348 samsung,1348 samsung,ATP_trial
+ATP,-33,NGM,hp_all,3387 hp,ATP_trial
+ATP,-34,Email,hp_all,3677 hp,ATP_trial
+ATP,-35,Product,non_hp,718 lenovo,ATP_trial
+ATP,-36,Cart,non_hp,109 dell,ATP_trial
+ATP,-37,Landing Page,non_hp,889 asus,ATP_trial
+ATP,-38,NGM,non_hp,666 acer,ATP_trial
+ATP,-39,Email,non_hp,1352 samsung,ATP_trial
+ATP,-40,Cart,3967 hp,3967 hp,ATP_trial
+ATP,-41,Landing Page,4257 hp,4257 hp,ATP_trial
+ATP,-42,NGM,714 lenovo,714 lenovo,ATP_trial
+ATP,-43,Email,105 dell,105 dell,ATP_trial
+ATP,-44,Product,885 asus,885 asus,ATP_trial
+ATP,-45,Cart,662 acer,662 acer,ATP_trial
+ATP,-46,Landing Page,1348 samsung,1348 samsung,ATP_trial
+ATP,-47,NGM,hp_all,3967 hp,ATP_trial
+ATP,-48,Email,hp_all,4257 hp,ATP_trial
+ATP,-49,Product,non_hp,719 lenovo,ATP_trial
+ATP,-50,Cart,non_hp,110 dell,ATP_trial
+ATP,-51,Landing Page,non_hp,890 asus,ATP_trial
+ATP,-52,NGM,non_hp,667 acer,ATP_trial
+ATP,-53,Email,non_hp,1353 samsung,ATP_trial
+ATP,-54,Cart,4547 hp,4547 hp,ATP_trial
+ATP,-55,Landing Page,4837 hp,4837 hp,ATP_trial
+ATP,-56,NGM,714 lenovo,714 lenovo,ATP_trial
+ATP,-57,Email,105 dell,105 dell,ATP_trial
+ATP,-58,Product,885 asus,885 asus,ATP_trial
+ATP,-59,Cart,662 acer,662 acer,ATP_trial
+ATP,-60,Landing Page,1348 samsung,1348 samsung,ATP_trial
+ATP,-61,NGM,hp_all,4547 hp,ATP_trial
+ATP,-62,Email,hp_all,4837 hp,ATP_trial
+ATP,-63,Product,non_hp,720 lenovo,ATP_trial
+ATP,-64,Cart,non_hp,111 dell,ATP_trial
+ATP,-65,Landing Page,non_hp,891 asus,ATP_trial
+ATP,-66,NGM,non_hp,668 acer,ATP_trial
+ATP,-67,Email,non_hp,1354 samsung,ATP_trial
+ATP,-68,Cart,5127 hp,5127 hp,ATP_trial
+ATP,-69,Landing Page,5417 hp,5417 hp,ATP_trial
+ATP,-70,NGM,714 lenovo,714 lenovo,ATP_trial
+ATP,-71,Email,105 dell,105 dell,ATP_trial
+ATP,-72,Product,885 asus,885 asus,ATP_trial
+ATP,-73,Cart,662 acer,662 acer,ATP_trial
+ATP,-74,Landing Page,1348 samsung,1348 samsung,ATP_trial
+ATP,-75,NGM,hp_all,5127 hp,ATP_trial
+ATP,-76,Email,hp_all,5417 hp,ATP_trial
+ATP,-77,Product,non_hp,721 lenovo,ATP_trial
+ATP,-78,Cart,non_hp,112 dell,ATP_trial
+ATP,-79,Landing Page,non_hp,892 asus,ATP_trial
+ATP,-80,NGM,non_hp,669 acer,ATP_trial
+ATP,-81,Email,non_hp,1355 samsung,ATP_trial
+ATP,-82,Cart,5707 hp,5707 hp,ATP_trial
+ATP,-83,Landing Page,5997 hp,5997 hp,ATP_trial
+ATP,-84,NGM,714 lenovo,714 lenovo,ATP_trial
+ATP,-85,Email,105 dell,105 dell,ATP_trial
+ATP,-86,Product,885 asus,885 asus,ATP_trial
+ATP,-87,Cart,662 acer,662 acer,ATP_trial
+ATP,-88,Landing Page,1348 samsung,1348 samsung,ATP_trial
+ATP,-89,NGM,hp_all,5707 hp,ATP_trial
+ATP,-90,Email,hp_all,5997 hp,ATP_trial
+ATP,-91,Product,non_hp,722 lenovo,ATP_trial
+ATP,-92,Cart,non_hp,113 dell,ATP_trial
+ATP,-93,Landing Page,non_hp,893 asus,ATP_trial
+ATP,-94,NGM,non_hp,670 acer,ATP_trial
+ATP,-95,Email,non_hp,1356 samsung,ATP_trial
+ATP,-96,Cart,6287 hp,6287 hp,ATP_trial
+ATP,-97,Landing Page,6577 hp,6577 hp,ATP_trial
+ATP,-98,NGM,714 lenovo,714 lenovo,ATP_trial
+ATP,-99,Email,105 dell,105 dell,ATP_trial
+ATP,-100,Product,885 asus,885 asus,ATP_trial
+ATP,-101,Cart,662 acer,662 acer,ATP_trial
+ATP,-102,Landing Page,1348 samsung,1348 samsung,ATP_trial
+ATP,-103,NGM,hp_all,6287 hp,ATP_trial
+ATP,-104,Email,hp_all,6577 hp,ATP_trial
+ATP,-105,Product,non_hp,723 lenovo,ATP_trial
+ATP,-106,Cart,non_hp,114 dell,ATP_trial
+ATP,-107,Landing Page,non_hp,894 asus,ATP_trial
+ATP,-108,NGM,non_hp,671 acer,ATP_trial
+ATP,-109,Email,non_hp,1357 samsung,ATP_trial
+ATP,-110,Cart,6867 hp,6867 hp,ATP_trial
+ATP,-111,Landing Page,7157 hp,7157 hp,ATP_trial
+ATP,-112,NGM,714 lenovo,714 lenovo,ATP_trial
+ATP,-113,Email,105 dell,105 dell,ATP_trial
+ATP,-114,Product,885 asus,885 asus,ATP_trial
+ATP,-115,Cart,662 acer,662 acer,ATP_trial
+ATP,-116,Landing Page,1348 samsung,1348 samsung,ATP_trial
+ATP,-117,NGM,hp_all,6867 hp,ATP_trial
+ATP,-118,Email,hp_all,7157 hp,ATP_trial
+ATP,-119,Product,non_hp,724 lenovo,ATP_trial
+ATP,-120,Cart,non_hp,115 dell,ATP_trial
+ATP,-121,Landing Page,non_hp,895 asus,ATP_trial
+ATP,-122,NGM,non_hp,672 acer,ATP_trial
+ATP,-123,Email,non_hp,1358 samsung,ATP_trial
+ATP,-124,Cart,7447 hp,7447 hp,ATP_trial
+ATP,-125,Landing Page,7737 hp,7737 hp,ATP_trial
+ATP,-126,NGM,714 lenovo,714 lenovo,ATP_trial
+ATP,-127,Email,105 dell,105 dell,ATP_trial
+ATP,-128,Product,885 asus,885 asus,ATP_trial
+ATP,-129,Cart,662 acer,662 acer,ATP_trial
+ATP,-130,Landing Page,1348 samsung,1348 samsung,ATP_trial
+ATP,-131,NGM,hp_all,7447 hp,ATP_trial
+ATP,-132,Email,hp_all,7737 hp,ATP_trial
+ATP,-133,Product,non_hp,725 lenovo,ATP_trial
+ATP,-134,Cart,non_hp,116 dell,ATP_trial
+ATP,-135,Landing Page,non_hp,896 asus,ATP_trial
+ATP,-136,NGM,non_hp,673 acer,ATP_trial
+ATP,-137,Email,non_hp,1359 samsung,ATP_trial
+ATP,-138,Cart,8027 hp,8027 hp,ATP_trial
+ATP,-139,Landing Page,8317 hp,8317 hp,ATP_trial
+ATP,-140,NGM,714 lenovo,714 lenovo,ATP_trial
+ATP,-141,Email,105 dell,105 dell,ATP_trial
+ATP,-142,Product,885 asus,885 asus,ATP_trial
+ATP,-143,Cart,662 acer,662 acer,ATP_trial
+ATP,-144,Landing Page,1348 samsung,1348 samsung,ATP_trial
+ATP,-145,NGM,hp_all,8027 hp,ATP_trial
+ATP,-146,Email,hp_all,8317 hp,ATP_trial
+ATP,-147,Product,non_hp,726 lenovo,ATP_trial
+ATP,-148,Cart,non_hp,117 dell,ATP_trial
+ATP,-149,Landing Page,non_hp,897 asus,ATP_trial
+ATP,-150,NGM,non_hp,674 acer,ATP_trial
+ATP,-999,Email,non_hp,1360 samsung,ATP_trial
+Direct,0,Cart,1111 adroll,1111 adroll,Direct_trial
+Direct,0,Landing Page,448 apac reseller,448 apac reseller,Direct_nar
+Direct,0,Store,1327 base affilaite stub-tail,1327 base affilaite stub-tail,Direct_chlpaid
+Direct,0,Cart,1097 cknet,1097 cknet,Direct_trial
+Direct,0,Landing Page,634 cnet direct,634 cnet direct,Direct_nar
+Direct,0,Store,987 commission junction,987 commission junction,Direct_chlpaid
+Direct,0,Cart,792 covario,792 covario,Direct_trial
+Direct,0,Landing Page,1217 covario google,1217 covario google,Direct_nar
+Direct,0,Store,1218 covario bing,1218 covario bing,Direct_chlpaid
+Direct,0,Cart,1219 covario yahoo,1219 covario yahoo,Direct_trial
+Direct,0,Landing Page,128 digitalriver,128 digitalriver,Direct_nar
+Direct,0,Store,1117 epp-digitalriver,1117 epp-digitalriver,Direct_chlpaid
+Direct,0,Cart,1320 direct stub for download.com,1320 direct stub for download.com,Direct_trial
+Direct,0,Landing Page,1303 facebook ads,1303 facebook ads,Direct_nar
+Direct,0,Store,811 fetchback,811 fetchback,Direct_chlpaid
+Direct,0,Cart,893 googlecheckout,893 googlecheckout,Direct_trial
+Direct,0,Landing Page,1110 adobegooglecheckout,1110 adobegooglecheckout,Direct_nar
+Direct,0,Store,1313 house of kaizen aff,1313 house of kaizen aff,Direct_chlpaid
+Direct,0,Cart,1311 house of kaizen organic,1311 house of kaizen organic,Direct_trial
+Direct,0,Landing Page,1249 impact radius,1249 impact radius,Direct_nar
+Direct,0,Store,1100 integrate,1100 integrate,Direct_chlpaid
+Direct,0,Cart,1108 iprospect,1108 iprospect,Direct_trial
+Direct,0,Landing Page,1318 ironsource,1318 ironsource,Direct_nar
+Direct,0,Store,1356 ironsource mssplus,1356 ironsource mssplus,Direct_chlpaid
+Direct,0,Cart,1079 leadqual,1079 leadqual,Direct_trial
+Direct,0,Landing Page,1297 leadqual stub trial test,1297 leadqual stub trial test,Direct_nar
+Direct,0,Store,1236 leadqual yahoo,1236 leadqual yahoo,Direct_chlpaid
+Direct,0,Cart,1194 leadqual bing,1194 leadqual bing,Direct_trial
+Direct,0,Landing Page,1239 leadqual carttest,1239 leadqual carttest,Direct_nar
+Direct,0,Store,1144 leadqual google,1144 leadqual google,Direct_chlpaid
+Direct,0,Cart,101 linkshare,101 linkshare,Direct_trial
+Direct,0,Landing Page,415 marketlinc webchat,415 marketlinc webchat,Direct_nar
+Direct,0,Store,613 marketlinc telechat,613 marketlinc telechat,Direct_chlpaid
+Direct,0,Cart,129 marketlinc,129 marketlinc,Direct_trial
+Direct,0,Landing Page,0 mcafee,0 mcafee,Direct_nar
+Direct,0,Store,1263 mcafee oneclick,1263 mcafee oneclick,Direct_chlpaid
+Direct,0,Cart,1244 mcafee stub trial uk,1244 mcafee stub trial uk,Direct_trial
+Direct,0,Landing Page,1333 mcafee trial stub pad xml,1333 mcafee trial stub pad xml,Direct_nar
+Direct,0,Store,1494 mfe affiliate long tail,1494 mfe affiliate long tail,Direct_chlpaid
+Direct,0,Cart,1487 mfe bing brand,1487 mfe bing brand,Direct_trial
+Direct,0,Landing Page,1488 mfe bing mobile,1488 mfe bing mobile,Direct_nar
+Direct,0,Store,1486 mfe bing nb,1486 mfe bing nb,Direct_chlpaid
+Direct,0,Cart,1492 mfe bing pla,1492 mfe bing pla,Direct_trial
+Direct,0,Landing Page,1496 mfe display,1496 mfe display,Direct_nar
+Direct,0,Store,1485 mfe google brand,1485 mfe google brand,Direct_chlpaid
+Direct,0,Cart,1491 mfe google mobile,1491 mfe google mobile,Direct_trial
+Direct,0,Landing Page,1484 mfe google nb,1484 mfe google nb,Direct_nar
+Direct,0,Store,1490 mfe goolge pla,1490 mfe goolge pla,Direct_chlpaid
+Direct,0,Cart,1483 mfe retargetting,1483 mfe retargetting,Direct_trial
+Direct,0,Landing Page,1422 mssp paid promotion,1422 mssp paid promotion,Direct_nar
+Direct,0,Store,903 ond digital river,903 ond digital river,Direct_chlpaid
+Direct,0,Cart,833 onenetworkdirect dr,833 onenetworkdirect dr,Direct_trial
+Direct,0,Landing Page,736 performics,736 performics,Direct_nar
+Direct,0,Store,1329 steamline impact radius ,1329 steamline impact radius ,Direct_chlpaid
+Direct,0,Cart,449 trade doubler,449 trade doubler,Direct_trial
+Direct,0,Landing Page,1324 trial for softonic.com,1324 trial for softonic.com,Direct_nar
+Direct,0,Store,1316 us direct stub p1,1316 us direct stub p1,Direct_chlpaid
+Direct,0,Cart,778 virgin atlantic,778 virgin atlantic,Direct_trial
+Direct,0,Landing Page,643 winferno,643 winferno,Direct_nar
+Direct,0,Store,590 zanox,590 zanox,Direct_chlpaid
+Retention,365,Cart,Retention_all,Retention_all,Web_ar
+Retention,364,Landing Page,Retention_all,Retention_all,Web_ftc
+Retention,363,NGM,Retention_all,Retention_all,Web_nar
+Retention,362,Email,Retention_all,Retention_all,ChP_ar
+Retention,361,Product,Retention_all,Retention_all,ChP_nar
+Retention,360,Cart,Retention_all,Retention_all,ChP_ftc
+Retention,359,Landing Page,Retention_all,Retention_all,Retail_ar
+Retention,358,NGM,Retention_all,Retention_all,Retail_nar
+Retention,357,Email,Retention_all,Retention_all,Retail_ftc
+Retention,356,Cart,Retention_all,Retention_all,Web_ar
+Retention,355,Landing Page,Retention_all,Retention_all,Web_ftc
+Retention,354,NGM,Retention_all,Retention_all,Web_nar
+Retention,353,Email,Retention_all,Retention_all,ChP_ar
+Retention,352,Product,Retention_all,Retention_all,ChP_nar
+Retention,351,Cart,Retention_all,Retention_all,ChP_ftc
+Retention,350,Landing Page,Retention_all,Retention_all,Retail_ar
+Retention,349,NGM,Retention_all,Retention_all,Retail_nar
+Retention,348,Email,Retention_all,Retention_all,Retail_ftc
+Retention,347,Cart,Retention_all,Retention_all,Web_ar
+Retention,346,Landing Page,Retention_all,Retention_all,Web_ftc
+Retention,345,NGM,Retention_all,Retention_all,Web_nar
+Retention,344,Email,Retention_all,Retention_all,ChP_ar
+Retention,343,Product,Retention_all,Retention_all,ChP_nar
+Retention,342,Cart,Retention_all,Retention_all,ChP_ftc
+Retention,341,Landing Page,Retention_all,Retention_all,Retail_ar
+Retention,340,NGM,Retention_all,Retention_all,Retail_nar
+Retention,339,Email,Retention_all,Retention_all,Retail_ftc
+Retention,338,Cart,Retention_all,Retention_all,Web_ar
+Retention,337,Landing Page,Retention_all,Retention_all,Web_ftc
+Retention,336,NGM,Retention_all,Retention_all,Web_nar
+Retention,335,Email,Retention_all,Retention_all,ChP_ar
+Retention,334,Product,Retention_all,Retention_all,ChP_nar
+Retention,333,Cart,Retention_all,Retention_all,ChP_ftc
+Retention,332,Landing Page,Retention_all,Retention_all,Retail_ar
+Retention,331,NGM,Retention_all,Retention_all,Retail_nar
+Retention,330,Email,Retention_all,Retention_all,Retail_ftc
+Retention,329,Cart,Retention_all,Retention_all,Web_ar
+Retention,328,Landing Page,Retention_all,Retention_all,Web_ftc
+Retention,327,NGM,Retention_all,Retention_all,Web_nar
+Retention,326,Email,Retention_all,Retention_all,ChP_ar
+Retention,325,Product,Retention_all,Retention_all,ChP_nar
+Retention,324,Cart,Retention_all,Retention_all,ChP_ftc
+Retention,323,Landing Page,Retention_all,Retention_all,Retail_ar
+Retention,322,NGM,Retention_all,Retention_all,Retail_nar
+Retention,321,Email,Retention_all,Retention_all,Retail_ftc
+Retention,320,Cart,Retention_all,Retention_all,Web_ar
+Retention,319,Landing Page,Retention_all,Retention_all,Web_ftc
+Retention,318,NGM,Retention_all,Retention_all,Web_nar
+Retention,317,Email,Retention_all,Retention_all,ChP_ar
+Retention,316,Product,Retention_all,Retention_all,ChP_nar
+Retention,315,Cart,Retention_all,Retention_all,ChP_ftc
+Retention,314,Landing Page,Retention_all,Retention_all,Retail_ar
+Retention,313,NGM,Retention_all,Retention_all,Retail_nar
+Retention,312,Email,Retention_all,Retention_all,Retail_ftc
+Retention,311,Cart,Retention_all,Retention_all,Web_ar
+Retention,310,Landing Page,Retention_all,Retention_all,Web_ftc
+Retention,309,NGM,Retention_all,Retention_all,Web_nar
+Retention,308,Email,Retention_all,Retention_all,ChP_ar
+Retention,307,Product,Retention_all,Retention_all,ChP_nar
+Retention,306,Cart,Retention_all,Retention_all,ChP_ftc
+Retention,305,Landing Page,Retention_all,Retention_all,Retail_ar
+Retention,304,NGM,Retention_all,Retention_all,Retail_nar
+Retention,303,Email,Retention_all,Retention_all,Retail_ftc
+Retention,302,Cart,Retention_all,Retention_all,Web_ar
+Retention,301,Landing Page,Retention_all,Retention_all,Web_ftc
+Retention,300,NGM,Retention_all,Retention_all,Web_nar
+Retention,299,Email,Retention_all,Retention_all,ChP_ar
+Retention,298,Product,Retention_all,Retention_all,ChP_nar
+Retention,297,Cart,Retention_all,Retention_all,ChP_ftc
+Retention,296,Landing Page,Retention_all,Retention_all,Retail_ar
+Retention,295,NGM,Retention_all,Retention_all,Retail_nar
+Retention,294,Email,Retention_all,Retention_all,Retail_ftc
+Retention,293,Cart,Retention_all,Retention_all,Web_ar
+Retention,292,Landing Page,Retention_all,Retention_all,Web_ftc
+Retention,291,NGM,Retention_all,Retention_all,Web_nar
+Retention,290,Email,Retention_all,Retention_all,ChP_ar
+Retention,289,Product,Retention_all,Retention_all,ChP_nar
+Retention,288,Cart,Retention_all,Retention_all,ChP_ftc
+Retention,287,Landing Page,Retention_all,Retention_all,Retail_ar
+Retention,286,NGM,Retention_all,Retention_all,Retail_nar
+Retention,285,Email,Retention_all,Retention_all,Retail_ftc
+Retention,284,Cart,Retention_all,Retention_all,Web_ar
+Retention,283,Landing Page,Retention_all,Retention_all,Web_ftc
+Retention,282,NGM,Retention_all,Retention_all,Web_nar
+Retention,281,Email,Retention_all,Retention_all,ChP_ar
+Retention,280,Product,Retention_all,Retention_all,ChP_nar
+Retention,279,Cart,Retention_all,Retention_all,ChP_ftc
+Retention,278,Landing Page,Retention_all,Retention_all,Retail_ar
+Retention,277,NGM,Retention_all,Retention_all,Retail_nar
+Retention,276,Email,Retention_all,Retention_all,Retail_ftc
+Retention,275,Cart,Retention_all,Retention_all,Web_ar
+Retention,274,Landing Page,Retention_all,Retention_all,Web_ftc
+Retention,273,NGM,Retention_all,Retention_all,Web_nar
+Retention,272,Email,Retention_all,Retention_all,ChP_ar
+Retention,271,Product,Retention_all,Retention_all,ChP_nar
+Retention,270,Cart,Retention_all,Retention_all,ChP_ftc
+Retention,269,Landing Page,Retention_all,Retention_all,Retail_ar
+Retention,268,NGM,Retention_all,Retention_all,Retail_nar
+Retention,267,Email,Retention_all,Retention_all,Retail_ftc
+Retention,266,Cart,Retention_all,Retention_all,Web_ar
+Retention,265,Landing Page,Retention_all,Retention_all,Web_ftc
+Retention,264,NGM,Retention_all,Retention_all,Web_nar
+Retention,263,Email,Retention_all,Retention_all,ChP_ar
+Retention,262,Product,Retention_all,Retention_all,ChP_nar
+Retention,261,Cart,Retention_all,Retention_all,ChP_ftc
+Retention,260,Landing Page,Retention_all,Retention_all,Retail_ar
+Retention,259,NGM,Retention_all,Retention_all,Retail_nar
+Retention,258,Email,Retention_all,Retention_all,Retail_ftc
+Retention,257,Cart,Retention_all,Retention_all,Web_ar
+Retention,256,Landing Page,Retention_all,Retention_all,Web_ftc
+Retention,255,NGM,Retention_all,Retention_all,Web_nar
+Retention,254,Email,Retention_all,Retention_all,ChP_ar
+Retention,253,Product,Retention_all,Retention_all,ChP_nar
+Retention,252,Cart,Retention_all,Retention_all,ChP_ftc
+Retention,251,Landing Page,Retention_all,Retention_all,Retail_ar
+Retention,250,NGM,Retention_all,Retention_all,Retail_nar
+Retention,249,Email,Retention_all,Retention_all,Retail_ftc
+Retention,248,Cart,Retention_all,Retention_all,Web_ar
+Retention,247,Landing Page,Retention_all,Retention_all,Web_ftc
+Retention,246,NGM,Retention_all,Retention_all,Web_nar
+Retention,245,Email,Retention_all,Retention_all,ChP_ar
+Retention,244,Product,Retention_all,Retention_all,ChP_nar
+Retention,243,Cart,Retention_all,Retention_all,ChP_ftc
+Retention,242,Landing Page,Retention_all,Retention_all,Retail_ar
+Retention,241,NGM,Retention_all,Retention_all,Retail_nar
+Retention,240,Email,Retention_all,Retention_all,Retail_ftc
+Retention,239,Cart,Retention_all,Retention_all,Web_ar
+Retention,238,Landing Page,Retention_all,Retention_all,Web_ftc
+Retention,237,NGM,Retention_all,Retention_all,Web_nar
+Retention,236,Email,Retention_all,Retention_all,ChP_ar
+Retention,235,Product,Retention_all,Retention_all,ChP_nar
+Retention,234,Cart,Retention_all,Retention_all,ChP_ftc
+Retention,233,Landing Page,Retention_all,Retention_all,Retail_ar
+Retention,232,NGM,Retention_all,Retention_all,Retail_nar
+Retention,231,Email,Retention_all,Retention_all,Retail_ftc
+Retention,230,Cart,Retention_all,Retention_all,Web_ar
+Retention,229,Landing Page,Retention_all,Retention_all,Web_ftc
+Retention,228,NGM,Retention_all,Retention_all,Web_nar
+Retention,227,Email,Retention_all,Retention_all,ChP_ar
+Retention,226,Product,Retention_all,Retention_all,ChP_nar
+Retention,225,Cart,Retention_all,Retention_all,ChP_ftc
+Retention,224,Landing Page,Retention_all,Retention_all,Retail_ar
+Retention,223,NGM,Retention_all,Retention_all,Retail_nar
+Retention,222,Email,Retention_all,Retention_all,Retail_ftc
+Retention,221,Cart,Retention_all,Retention_all,Web_ar
+Retention,220,Landing Page,Retention_all,Retention_all,Web_ftc
+Retention,219,NGM,Retention_all,Retention_all,Web_nar
+Retention,218,Email,Retention_all,Retention_all,ChP_ar
+Retention,217,Product,Retention_all,Retention_all,ChP_nar
+Retention,216,Cart,Retention_all,Retention_all,ChP_ftc
+Retention,215,Landing Page,Retention_all,Retention_all,Retail_ar
+Retention,214,NGM,Retention_all,Retention_all,Retail_nar
+Retention,213,Email,Retention_all,Retention_all,Retail_ftc
+Retention,212,Cart,Retention_all,Retention_all,Web_ar
+Retention,211,Landing Page,Retention_all,Retention_all,Web_ftc
+Retention,210,NGM,Retention_all,Retention_all,Web_nar
+Retention,209,Email,Retention_all,Retention_all,ChP_ar
+Retention,208,Product,Retention_all,Retention_all,ChP_nar
+Retention,207,Cart,Retention_all,Retention_all,ChP_ftc
+Retention,206,Landing Page,Retention_all,Retention_all,Retail_ar
+Retention,205,NGM,Retention_all,Retention_all,Retail_nar
+Retention,204,Email,Retention_all,Retention_all,Retail_ftc
+Retention,203,Cart,Retention_all,Retention_all,Web_ar
+Retention,202,Landing Page,Retention_all,Retention_all,Web_ftc
+Retention,201,NGM,Retention_all,Retention_all,Web_nar
+Retention,200,Email,Retention_all,Retention_all,ChP_ar
+Retention,199,Product,Retention_all,Retention_all,ChP_nar
+Retention,198,Cart,Retention_all,Retention_all,ChP_ftc
+Retention,197,Landing Page,Retention_all,Retention_all,Retail_ar
+Retention,196,NGM,Retention_all,Retention_all,Retail_nar
+Retention,195,Email,Retention_all,Retention_all,Retail_ftc
+Retention,194,Cart,Retention_all,Retention_all,Web_ar
+Retention,193,Landing Page,Retention_all,Retention_all,Web_ftc
+Retention,192,NGM,Retention_all,Retention_all,Web_nar
+Retention,191,Email,Retention_all,Retention_all,ChP_ar
+Retention,190,Product,Retention_all,Retention_all,ChP_nar
+Retention,189,Cart,Retention_all,Retention_all,ChP_ftc
+Retention,188,Landing Page,Retention_all,Retention_all,Retail_ar
+Retention,187,NGM,Retention_all,Retention_all,Retail_nar
+Retention,186,Email,Retention_all,Retention_all,Retail_ftc
+Retention,185,Cart,Retention_all,Retention_all,Web_ar
+Retention,184,Landing Page,Retention_all,Retention_all,Web_ftc
+Retention,183,NGM,Retention_all,Retention_all,Web_nar
+Retention,182,Email,Retention_all,Retention_all,ChP_ar
+Retention,181,Product,Retention_all,Retention_all,ChP_nar
+Retention,180,Cart,Retention_all,Retention_all,ChP_ftc
+Retention,179,Landing Page,Retention_all,Retention_all,Retail_ar
+Retention,178,NGM,Retention_all,Retention_all,Retail_nar
+Retention,177,Email,Retention_all,Retention_all,Retail_ftc
+Retention,176,Cart,Retention_all,Retention_all,Web_ar
+Retention,175,Landing Page,Retention_all,Retention_all,Web_ftc
+Retention,174,NGM,Retention_all,Retention_all,Web_nar
+Retention,173,Email,Retention_all,Retention_all,ChP_ar
+Retention,172,Product,Retention_all,Retention_all,ChP_nar
+Retention,171,Cart,Retention_all,Retention_all,ChP_ftc
+Retention,170,Landing Page,Retention_all,Retention_all,Retail_ar
+Retention,169,NGM,Retention_all,Retention_all,Retail_nar
+Retention,168,Email,Retention_all,Retention_all,Retail_ftc
+Retention,167,Cart,Retention_all,Retention_all,Web_ar
+Retention,166,Landing Page,Retention_all,Retention_all,Web_ftc
+Retention,165,NGM,Retention_all,Retention_all,Web_nar
+Retention,164,Email,Retention_all,Retention_all,ChP_ar
+Retention,163,Product,Retention_all,Retention_all,ChP_nar
+Retention,162,Cart,Retention_all,Retention_all,ChP_ftc
+Retention,161,Landing Page,Retention_all,Retention_all,Retail_ar
+Retention,160,NGM,Retention_all,Retention_all,Retail_nar
+Retention,159,Email,Retention_all,Retention_all,Retail_ftc
+Retention,158,Cart,Retention_all,Retention_all,Web_ar
+Retention,157,Landing Page,Retention_all,Retention_all,Web_ftc
+Retention,156,NGM,Retention_all,Retention_all,Web_nar
+Retention,155,Email,Retention_all,Retention_all,ChP_ar
+Retention,154,Product,Retention_all,Retention_all,ChP_nar
+Retention,153,Cart,Retention_all,Retention_all,ChP_ftc
+Retention,152,Landing Page,Retention_all,Retention_all,Retail_ar
+Retention,151,NGM,Retention_all,Retention_all,Retail_nar
+Retention,150,Email,Retention_all,Retention_all,Retail_ftc
+Retention,149,Cart,Retention_all,Retention_all,Web_ar
+Retention,148,Landing Page,Retention_all,Retention_all,Web_ftc
+Retention,147,NGM,Retention_all,Retention_all,Web_nar
+Retention,146,Email,Retention_all,Retention_all,ChP_ar
+Retention,145,Product,Retention_all,Retention_all,ChP_nar
+Retention,144,Cart,Retention_all,Retention_all,ChP_ftc
+Retention,143,Landing Page,Retention_all,Retention_all,Retail_ar
+Retention,142,NGM,Retention_all,Retention_all,Retail_nar
+Retention,141,Email,Retention_all,Retention_all,Retail_ftc
+Retention,140,Cart,Retention_all,Retention_all,Web_ar
+Retention,139,Landing Page,Retention_all,Retention_all,Web_ftc
+Retention,138,NGM,Retention_all,Retention_all,Web_nar
+Retention,137,Email,Retention_all,Retention_all,ChP_ar
+Retention,136,Product,Retention_all,Retention_all,ChP_nar
+Retention,135,Cart,Retention_all,Retention_all,ChP_ftc
+Retention,134,Landing Page,Retention_all,Retention_all,Retail_ar
+Retention,133,NGM,Retention_all,Retention_all,Retail_nar
+Retention,132,Email,Retention_all,Retention_all,Retail_ftc
+Retention,131,Cart,Retention_all,Retention_all,Web_ar
+Retention,130,Landing Page,Retention_all,Retention_all,Web_ftc
+Retention,129,NGM,Retention_all,Retention_all,Web_nar
+Retention,128,Email,Retention_all,Retention_all,ChP_ar
+Retention,127,Product,Retention_all,Retention_all,ChP_nar
+Retention,126,Cart,Retention_all,Retention_all,ChP_ftc
+Retention,125,Landing Page,Retention_all,Retention_all,Retail_ar
+Retention,124,NGM,Retention_all,Retention_all,Retail_nar
+Retention,123,Email,Retention_all,Retention_all,Retail_ftc
+Retention,122,Cart,Retention_all,Retention_all,Web_ar
+Retention,121,Landing Page,Retention_all,Retention_all,Web_ftc
+Retention,120,NGM,Retention_all,Retention_all,Web_nar
+Retention,119,Email,Retention_all,Retention_all,ChP_ar
+Retention,118,Product,Retention_all,Retention_all,ChP_nar
+Retention,117,Cart,Retention_all,Retention_all,ChP_ftc
+Retention,116,Landing Page,Retention_all,Retention_all,Retail_ar
+Retention,115,NGM,Retention_all,Retention_all,Retail_nar
+Retention,114,Email,Retention_all,Retention_all,Retail_ftc
+Retention,113,Cart,Retention_all,Retention_all,Web_ar
+Retention,112,Landing Page,Retention_all,Retention_all,Web_ftc
+Retention,111,NGM,Retention_all,Retention_all,Web_nar
+Retention,110,Email,Retention_all,Retention_all,ChP_ar
+Retention,109,Product,Retention_all,Retention_all,ChP_nar
+Retention,108,Cart,Retention_all,Retention_all,ChP_ftc
+Retention,107,Landing Page,Retention_all,Retention_all,Retail_ar
+Retention,106,NGM,Retention_all,Retention_all,Retail_nar
+Retention,105,Email,Retention_all,Retention_all,Retail_ftc
+Retention,104,Cart,Retention_all,Retention_all,Web_ar
+Retention,103,Landing Page,Retention_all,Retention_all,Web_ftc
+Retention,102,NGM,Retention_all,Retention_all,Web_nar
+Retention,101,Email,Retention_all,Retention_all,ChP_ar
+Retention,100,Product,Retention_all,Retention_all,ChP_nar
+Retention,99,Cart,Retention_all,Retention_all,ChP_ftc
+Retention,98,Landing Page,Retention_all,Retention_all,Retail_ar
+Retention,97,NGM,Retention_all,Retention_all,Retail_nar
+Retention,96,Email,Retention_all,Retention_all,Retail_ftc
+Retention,95,Cart,Retention_all,Retention_all,Web_ar
+Retention,94,Landing Page,Retention_all,Retention_all,Web_ftc
+Retention,93,NGM,Retention_all,Retention_all,Web_nar
+Retention,92,Email,Retention_all,Retention_all,ChP_ar
+Retention,91,Product,Retention_all,Retention_all,ChP_nar
+Retention,90,Cart,Retention_all,Retention_all,ChP_ftc
+Retention,89,Landing Page,Retention_all,Retention_all,Retail_ar
+Retention,88,NGM,Retention_all,Retention_all,Retail_nar
+Retention,87,Email,Retention_all,Retention_all,Retail_ftc
+Retention,86,Cart,Retention_all,Retention_all,Web_ar
+Retention,85,Landing Page,Retention_all,Retention_all,Web_ftc
+Retention,84,NGM,Retention_all,Retention_all,Web_nar
+Retention,83,Email,Retention_all,Retention_all,ChP_ar
+Retention,82,Product,Retention_all,Retention_all,ChP_nar
+Retention,81,Cart,Retention_all,Retention_all,ChP_ftc
+Retention,80,Landing Page,Retention_all,Retention_all,Retail_ar
+Retention,79,NGM,Retention_all,Retention_all,Retail_nar
+Retention,78,Email,Retention_all,Retention_all,Retail_ftc
+Retention,77,Cart,Retention_all,Retention_all,Web_ar
+Retention,76,Landing Page,Retention_all,Retention_all,Web_ftc
+Retention,75,NGM,Retention_all,Retention_all,Web_nar
+Retention,74,Email,Retention_all,Retention_all,ChP_ar
+Retention,73,Product,Retention_all,Retention_all,ChP_nar
+Retention,72,Cart,Retention_all,Retention_all,ChP_ftc
+Retention,71,Landing Page,Retention_all,Retention_all,Retail_ar
+Retention,70,NGM,Retention_all,Retention_all,Retail_nar
+Retention,69,Email,Retention_all,Retention_all,Retail_ftc
+Retention,68,Cart,Retention_all,Retention_all,Web_ar
+Retention,67,Landing Page,Retention_all,Retention_all,Web_ftc
+Retention,66,NGM,Retention_all,Retention_all,Web_nar
+Retention,65,Email,Retention_all,Retention_all,ChP_ar
+Retention,64,Product,Retention_all,Retention_all,ChP_nar
+Retention,63,Cart,Retention_all,Retention_all,ChP_ftc
+Retention,62,Landing Page,Retention_all,Retention_all,Retail_ar
+Retention,61,NGM,Retention_all,Retention_all,Retail_nar
+Retention,60,Email,Retention_all,Retention_all,Retail_ftc
+Retention,59,Cart,Retention_all,Retention_all,Web_ar
+Retention,58,Landing Page,Retention_all,Retention_all,Web_ftc
+Retention,57,NGM,Retention_all,Retention_all,Web_nar
+Retention,56,Email,Retention_all,Retention_all,ChP_ar
+Retention,55,Product,Retention_all,Retention_all,ChP_nar
+Retention,54,Cart,Retention_all,Retention_all,ChP_ftc
+Retention,53,Landing Page,Retention_all,Retention_all,Retail_ar
+Retention,52,NGM,Retention_all,Retention_all,Retail_nar
+Retention,51,Email,Retention_all,Retention_all,Retail_ftc
+Retention,50,Cart,Retention_all,Retention_all,Web_ar
+Retention,49,Landing Page,Retention_all,Retention_all,Web_ftc
+Retention,48,NGM,Retention_all,Retention_all,Web_nar
+Retention,47,Email,Retention_all,Retention_all,ChP_ar
+Retention,46,Product,Retention_all,Retention_all,ChP_nar
+Retention,45,Cart,Retention_all,Retention_all,ChP_ftc
+Retention,44,Landing Page,Retention_all,Retention_all,Retail_ar
+Retention,43,NGM,Retention_all,Retention_all,Retail_nar
+Retention,42,Email,Retention_all,Retention_all,Retail_ftc
+Retention,41,Cart,Retention_all,Retention_all,Web_ar
+Retention,40,Landing Page,Retention_all,Retention_all,Web_ftc
+Retention,39,NGM,Retention_all,Retention_all,Web_nar
+Retention,38,Email,Retention_all,Retention_all,ChP_ar
+Retention,37,Product,Retention_all,Retention_all,ChP_nar
+Retention,36,Cart,Retention_all,Retention_all,ChP_ftc
+Retention,35,Landing Page,Retention_all,Retention_all,Retail_ar
+Retention,34,NGM,Retention_all,Retention_all,Retail_nar
+Retention,33,Email,Retention_all,Retention_all,Retail_ftc
+Retention,32,Cart,Retention_all,Retention_all,Web_ar
+Retention,31,Landing Page,Retention_all,Retention_all,Web_ftc
+Retention,30,NGM,Retention_all,Retention_all,Web_nar
+Retention,29,Email,Retention_all,Retention_all,ChP_ar
+Retention,28,Product,Retention_all,Retention_all,ChP_nar
+Retention,27,Cart,Retention_all,Retention_all,ChP_ftc
+Retention,26,Landing Page,Retention_all,Retention_all,Retail_ar
+Retention,25,NGM,Retention_all,Retention_all,Retail_nar
+Retention,24,Email,Retention_all,Retention_all,Retail_ftc
+Retention,23,Cart,Retention_all,Retention_all,Web_ar
+Retention,22,Landing Page,Retention_all,Retention_all,Web_ftc
+Retention,21,NGM,Retention_all,Retention_all,Web_nar
+Retention,20,Email,Retention_all,Retention_all,ChP_ar
+Retention,19,Product,Retention_all,Retention_all,ChP_nar
+Retention,18,Cart,Retention_all,Retention_all,ChP_ftc
+Retention,17,Landing Page,Retention_all,Retention_all,Retail_ar
+Retention,16,NGM,Retention_all,Retention_all,Retail_nar
+Retention,15,Email,Retention_all,Retention_all,Retail_ftc
+Retention,14,Cart,Retention_all,Retention_all,Web_ar
+Retention,13,Landing Page,Retention_all,Retention_all,Web_ftc
+Retention,12,NGM,Retention_all,Retention_all,Web_nar
+Retention,11,Email,Retention_all,Retention_all,ChP_ar
+Retention,10,Product,Retention_all,Retention_all,ChP_nar
+Retention,9,Cart,Retention_all,Retention_all,ChP_ftc
+Retention,8,Landing Page,Retention_all,Retention_all,Retail_ar
+Retention,7,NGM,Retention_all,Retention_all,Retail_nar
+Retention,6,Email,Retention_all,Retention_all,Retail_ftc
+Retention,5,Cart,Retention_all,Retention_all,Web_ar
+Retention,4,Landing Page,Retention_all,Retention_all,Web_ftc
+Retention,3,NGM,Retention_all,Retention_all,Web_nar
+Retention,2,Email,Retention_all,Retention_all,ChP_ar
+Retention,1,Product,Retention_all,Retention_all,ChP_nar
+Retention,0,Cart,Retention_all,Retention_all,ChP_ftc
+Retention,-1,Landing Page,Retention_all,Retention_all,Retail_ar
+Retention,-2,NGM,Retention_all,Retention_all,Retail_nar
+Retention,-3,Email,Retention_all,Retention_all,Retail_ftc
+Retention,-4,Cart,Retention_all,Retention_all,Web_ar
+Retention,-5,Landing Page,Retention_all,Retention_all,Web_ftc
+Retention,-6,NGM,Retention_all,Retention_all,Web_nar
+Retention,-7,Email,Retention_all,Retention_all,ChP_ar
+Retention,-8,Product,Retention_all,Retention_all,ChP_nar
+Retention,-9,Cart,Retention_all,Retention_all,ChP_ftc
+Retention,-10,Landing Page,Retention_all,Retention_all,Retail_ar
+Retention,-11,NGM,Retention_all,Retention_all,Retail_nar
+Retention,-12,Email,Retention_all,Retention_all,Retail_ftc
+Retention,-13,Cart,Retention_all,Retention_all,Web_ar
+Retention,-14,Landing Page,Retention_all,Retention_all,Web_ftc
+Retention,-15,NGM,Retention_all,Retention_all,Web_nar
+Retention,-16,Email,Retention_all,Retention_all,ChP_ar
+Retention,-17,Product,Retention_all,Retention_all,ChP_nar
+Retention,-18,Cart,Retention_all,Retention_all,ChP_ftc
+Retention,-19,Landing Page,Retention_all,Retention_all,Retail_ar
+Retention,-20,NGM,Retention_all,Retention_all,Retail_nar
+Retention,-21,Email,Retention_all,Retention_all,Retail_ftc
+Retention,-22,Cart,Retention_all,Retention_all,Web_ar
+Retention,-23,Landing Page,Retention_all,Retention_all,Web_ftc
+Retention,-24,NGM,Retention_all,Retention_all,Web_nar
+Retention,-25,Email,Retention_all,Retention_all,ChP_ar
+Retention,-26,Product,Retention_all,Retention_all,ChP_nar
+Retention,-27,Cart,Retention_all,Retention_all,ChP_ftc
+Retention,-28,Landing Page,Retention_all,Retention_all,Retail_ar
+Retention,-29,NGM,Retention_all,Retention_all,Retail_nar
+Retention,-30,Email,Retention_all,Retention_all,Retail_ftc
+Retention,-31,Cart,Retention_all,Retention_all,Web_ar
+Retention,-32,Landing Page,Retention_all,Retention_all,Web_ftc
+Retention,-33,NGM,Retention_all,Retention_all,Web_nar
+Retention,-34,Email,Retention_all,Retention_all,ChP_ar
+Retention,-35,Product,Retention_all,Retention_all,ChP_nar
+Retention,-36,Cart,Retention_all,Retention_all,ChP_ftc
+Retention,-37,Landing Page,Retention_all,Retention_all,Retail_ar
+Retention,-38,NGM,Retention_all,Retention_all,Retail_nar
+Retention,-39,Email,Retention_all,Retention_all,Retail_ftc
+Retention,-40,Cart,Retention_all,Retention_all,Web_ar
+Retention,-41,Landing Page,Retention_all,Retention_all,Web_ftc
+Retention,-42,NGM,Retention_all,Retention_all,Web_nar
+Retention,-43,Email,Retention_all,Retention_all,ChP_ar
+Retention,-44,Product,Retention_all,Retention_all,ChP_nar
+Retention,-45,Cart,Retention_all,Retention_all,ChP_ftc
+Retention,-46,Landing Page,Retention_all,Retention_all,Retail_ar
+Retention,-47,NGM,Retention_all,Retention_all,Retail_nar
+Retention,-48,Email,Retention_all,Retention_all,Retail_ftc
+Retention,-49,Cart,Retention_all,Retention_all,Web_ar
+Retention,-50,Landing Page,Retention_all,Retention_all,Web_ftc
+Retention,-51,NGM,Retention_all,Retention_all,Web_nar
+Retention,-52,Email,Retention_all,Retention_all,ChP_ar
+Retention,-53,Product,Retention_all,Retention_all,ChP_nar
+Retention,-54,Cart,Retention_all,Retention_all,ChP_ftc
+Retention,-55,Landing Page,Retention_all,Retention_all,Retail_ar
+Retention,-56,NGM,Retention_all,Retention_all,Retail_nar
+Retention,-57,Email,Retention_all,Retention_all,Retail_ftc
+Retention,-58,Cart,Retention_all,Retention_all,Web_ar
+Retention,-59,Landing Page,Retention_all,Retention_all,Web_ftc
+Retention,-60,NGM,Retention_all,Retention_all,Web_nar
+Retention,-61,Email,Retention_all,Retention_all,ChP_ar
+Retention,-62,Product,Retention_all,Retention_all,ChP_nar
+Retention,-63,Cart,Retention_all,Retention_all,ChP_ftc
+Retention,-64,Landing Page,Retention_all,Retention_all,Retail_ar
+Retention,-65,NGM,Retention_all,Retention_all,Retail_nar
+Retention,-66,Email,Retention_all,Retention_all,Retail_ftc
+Retention,-67,Cart,Retention_all,Retention_all,Web_ar
+Retention,-68,Landing Page,Retention_all,Retention_all,Web_ftc
+Retention,-69,NGM,Retention_all,Retention_all,Web_nar
+Retention,-70,Email,Retention_all,Retention_all,ChP_ar
+Retention,-71,Product,Retention_all,Retention_all,ChP_nar
+Retention,-72,Cart,Retention_all,Retention_all,ChP_ftc
+Retention,-73,Landing Page,Retention_all,Retention_all,Retail_ar
+Retention,-74,NGM,Retention_all,Retention_all,Retail_nar
+Retention,-75,Email,Retention_all,Retention_all,Retail_ftc
+Retention,-76,Cart,Retention_all,Retention_all,Web_ar
+Retention,-77,Landing Page,Retention_all,Retention_all,Web_ftc
+Retention,-78,NGM,Retention_all,Retention_all,Web_nar
+Retention,-79,Email,Retention_all,Retention_all,ChP_ar
+Retention,-80,Product,Retention_all,Retention_all,ChP_nar
+Retention,-81,Cart,Retention_all,Retention_all,ChP_ftc
+Retention,-82,Landing Page,Retention_all,Retention_all,Retail_ar
+Retention,-83,NGM,Retention_all,Retention_all,Retail_nar
+Retention,-84,Email,Retention_all,Retention_all,Retail_ftc
+Retention,-85,Cart,Retention_all,Retention_all,Web_ar
+Retention,-86,Landing Page,Retention_all,Retention_all,Web_ftc
+Retention,-87,NGM,Retention_all,Retention_all,Web_nar
+Retention,-88,Email,Retention_all,Retention_all,ChP_ar
+Retention,-89,Product,Retention_all,Retention_all,ChP_nar
+Retention,-90,Cart,Retention_all,Retention_all,ChP_ftc

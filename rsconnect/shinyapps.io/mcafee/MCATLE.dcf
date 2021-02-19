@@ -1,0 +1,13 @@
+name: MCATLE
+title: MCATLE
+username:
+account: mcafee
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3518428
+bundleId: 4231550
+url: https://mcafee.shinyapps.io/MCATLE/
+when: 1613507092.41241
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|~$Database_4_discussion_with_updates.xlsx|~$Mcafee_Event_Perf_tabs_Progress_Self_tracker.xlsx|config.yml|data_prep.R|Database_4_discussion_with_updates.xlsx|db_init.R|Event_Manager_M3_Editable_table3_listed.csv|Event_Manager_M3_Editable_table3.csv|Idea_db_phase1_130.csv|Idea_db_phase1_98_SCHEMA.csv|Idea_db_phase1_98.csv|idea_design_arch.xls|Idea_Submission_Editable_table_listed.csv|Idea-Submission-Editable_table.csv|Idea.csv|Mcafee_Event_Perf_tabs_Progress_Self_tracker.xlsx|Mcafee_Progress_Self_tracker.xlsx|Performance Manager-P2-Editable_table3.csv|Performance_Manager_P2_Editable_table3_listed.csv|Priority_Editable_table_listed.csv|Priority-Editable_table.csv|schema.R|shiny_manager_sqlite_creation.R|temp_flight2.rds|data/Idea_db_phase1_115.sqlite3|data/Idea_db_phase1_97.sqlite3|data/Idea_db_phase1_98.sqlite3|data_old/mtcars.sqlite3|R_ref/car_delete_module.R|R_ref/car_edit_module.R|R_ref/cars_table_module.R|fucntion_testing|R_old
